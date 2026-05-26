@@ -1,0 +1,4 @@
+streamlit
+pandas
+cantools==39.4.13
+plotly
