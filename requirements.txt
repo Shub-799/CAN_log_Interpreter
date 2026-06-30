@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+cantools
+python-can
+plotly
+pyarrow
